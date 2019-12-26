@@ -6,6 +6,9 @@ server {
     location /static/ {
         root /home/djangodeploy/portfolio-project;
     }
+    location /media/ {
+        root /home/djangodeploy/portfolio-project;
+    }
 
     location / {
         include proxy_params;

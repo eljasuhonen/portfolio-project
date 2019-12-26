@@ -1,7 +1,7 @@
 
 SECRET_KEY = '8re%p-kep8doesnot!ub_bpe39tf5!ubelonghere^g9rdfn(h&51^g2kkk93s-%lzb'
 
-ALLOWED_HOSTS = ['139.59.152.215']
+ALLOWED_HOSTS = ['139.59.152.215','eljasuhonen.com', 'www.eljasuhonen.com']
 
 DATABASES = {
     'default': {

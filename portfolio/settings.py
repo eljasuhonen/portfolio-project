@@ -26,11 +26,6 @@ SECRET_KEY = '8re%p-kep8!ub_bpe39tf5!u^g9rdfn(h&51^g2kkk93s-%lzb'
 DEBUG = True
 
 ALLOWED_HOSTS = ['139.59.152.215' 'www.eljasuhonen.com' 'eljasuhonen.com']
-<<<<<<< HEAD
-
-=======
->>>>>>> 385a09e32f6241dbd763dd4caf085aa590024e11
-
 # Application definition
 
 INSTALLED_APPS = [
